@@ -1,7 +1,42 @@
 {
-    "admsn": [
-      
-    ]
+    "ad": [
+    {
+     "Name":"Antara",
+     "Age":"22",
+     "Address":"Asansol",
+     "Department":"padhai",
+     "Salary":"1000000",
+     "Marital state":"Not married",
+     "Profile photo":"sundar"
+    },
+    {
+      "Name":"Antii",
+      "Age":"21",
+      "Address":"Asaam",
+      "Department":"likhae",
+      "Salary":"1000000",
+      "Marital state":"married",
+      "Profile photo":"sundar bht"
+     },
+     {
+      "Name":"Burman",
+      "Age":"20",
+      "Address":"bhglpur",
+      "Department":"singing",
+      "Salary":"3000000",
+      "Marital state":"Not married",
+      "Profile photo":"kharab"
+     },
+     {
+      "Name":"Manisha",
+      "Age":"24",
+      "Address":"durgapur",
+      "Department":"dancing",
+      "Salary":"2000000",
+      "Marital state":"married",
+      "Profile photo":"sundar jyada"
+     }
+  ]
 
    
   }
